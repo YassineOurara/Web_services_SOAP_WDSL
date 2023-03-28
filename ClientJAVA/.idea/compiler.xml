@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TP2_sysdis" />
-        <module name="Web_services_SOAP_WDSL_TP2" />
+        <module name="ClientJAVA" />
       </profile>
     </annotationProcessing>
   </component>
