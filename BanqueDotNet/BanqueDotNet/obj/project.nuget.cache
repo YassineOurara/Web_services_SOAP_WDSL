@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XchjSDTC/JdA5G6C+ql4y7rkgECmln31DwsZ9+RwgkJBADZQox/GjVfz6m4kFthiuDXMVM4WSDVwhbR0PulKlA==",
+  "dgSpecHash": "+6PIUk8Supu+QWPZype7WXw/rebtsjtkABqhcwC1KFDGB+UlIdgWuGorVjzPCOMzkYBrxlOqA+63yiBi4ox01w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\smart asus\\OneDrive\\Bureau\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj",
+  "projectFilePath": "C:\\Users\\smart asus\\OneDrive\\Documents\\GitHub\\Web_services_SOAP_WDSL\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smart asus\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\smart asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

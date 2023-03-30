@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smart asus\\OneDrive\\Bureau\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj": {}
+    "C:\\Users\\smart asus\\OneDrive\\Documents\\GitHub\\Web_services_SOAP_WDSL\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smart asus\\OneDrive\\Bureau\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj": {
+    "C:\\Users\\smart asus\\OneDrive\\Documents\\GitHub\\Web_services_SOAP_WDSL\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smart asus\\OneDrive\\Bureau\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\smart asus\\OneDrive\\Documents\\GitHub\\Web_services_SOAP_WDSL\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj",
         "projectName": "BanqueDotNet",
-        "projectPath": "C:\\Users\\smart asus\\OneDrive\\Bureau\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj",
+        "projectPath": "C:\\Users\\smart asus\\OneDrive\\Documents\\GitHub\\Web_services_SOAP_WDSL\\BanqueDotNet\\BanqueDotNet\\BanqueDotNet.csproj",
         "packagesPath": "C:\\Users\\smart asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smart asus\\OneDrive\\Bureau\\BanqueDotNet\\BanqueDotNet\\obj\\",
+        "outputPath": "C:\\Users\\smart asus\\OneDrive\\Documents\\GitHub\\Web_services_SOAP_WDSL\\BanqueDotNet\\BanqueDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smart asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
